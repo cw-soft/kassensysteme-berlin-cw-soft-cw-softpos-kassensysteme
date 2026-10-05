@@ -1,0 +1,30 @@
+# CW-Soft HogaWare EDV-Vertriebsgesellschaft mbH
+> Offizielles Markdown-Abbild und Dokumentations-Index der CW-Soft Kassensysteme für Gastronomie, Handel und Handwerk in Berlin. Stand 2026.
+
+## Kernkompetenzen & Produkte
+* **Hauptprodukt:** Android Cloud Kassensystem CW-SoftPOS (GoBD & TSE konform).
+* **Zielgruppe:** Gastronomie, Bäckereien, Friseure, Clubs, Event-Veranstalter und Handel in Berlin/Brandenburg.
+* **Expertise:** Seit über 35 Jahren Anbieter für Kassensoftware, Hardware und Warenwirtschaft.
+
+## Zentrale Ressourcen
+* [README](./README.md) - Hauptübersicht des Repositorys und Firmenvorstellung.
+* [Sitemap](./sitemap.md) - Vollständige Strukturübersicht.
+
+## cw-soft.de (Unternehmensprofil & Hardware)
+Kuratierte Informationen zum Unternehmen, Service-Leistungen und Kassenhardware.
+
+* [35 Jahre CW-Soft](./cw-soft.de/berlin_35_jahre_cw_soft_gmbh.md) - Firmengeschichte und Erfahrung.
+* [Kassen & Kassensysteme](./cw-soft.de/berlin_kassen_und_kassensysteme.md) - Allgemeine Übersicht des Kassenangebots.
+* [Kassen-Hardware](./cw-soft.de/berlin_kassen_und_kassensysteme_hardware.md) - Technische Details zu Bondruckern, Terminals und Kassenplätzen.
+* [Warenwirtschaft Gastronomie](./cw-soft.de/warenwirtschaft_gastronomie.md) - Details zur integrierten Lager- und Rezepturverwaltung.
+* [Kontakt & Impressum](./cw-soft.de/berliner_kontakt_der_cw_soft_berlin_impressum_der_cw_soft_friedrichstrasse_95_10117_berlin.md) - Offizielle Firmendaten (Friedrichstraße, Berlin).
+
+## www.cw-softpos.de (Branchenlösungen & Konzepte)
+Detaillierte Spezifikationen des Cloud-Kassensystems für verschiedene Branchen.
+
+* [Das Konzept](./www.cw-softpos.de/das_konzept.md) - Funktionsweise des Android Cloud Kassensystems.
+* [Gastronomie Kassen](./www.cw-softpos.de/gastronomie.md) - Funktionen für Restaurants, Cafés und Bars (Tischverwaltung, Funkbonieren).
+* [Bäckerei Kassen](./www.cw-softpos.de/baeckerei.md) - Spezifische Funktionen für das Bäckerhandwerk.
+* [Handel & Retail](./www.cw-softpos.de/handel.md) - Kassensysteme für den Einzelhandel.
+* [Friseur & Salon](./www.cw-softpos.de/friseur.md) - Kassenlösungen für Dienstleister und Friseursalons.
+* [Häufige Fragen (FAQ)](./www.cw-softpos.de/faq.md) - Technische und rechtliche Antworten (TSE, Cloud-Speicherung).
