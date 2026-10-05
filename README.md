@@ -9,7 +9,7 @@
 * [Dokumentation](https://github.com/cw-soft/cw-soft/blob/main/llms.md)
 * [Sitemap](https://github.com/cw-soft/cw-soft/blob/main/sitemap.md)
 #### Überblick
-##### cw-soft.de
+##### [cw-soft.de](https://cw-soft.de)
 * [berlin_35_jahre_cw_soft_gmbh.md](cw-soft.de/berlin_35_jahre_cw_soft_gmbh.md)
 * [berlin_kassen_leistungen_und_ihre_wuensche.md](cw-soft.de/berlin_kassen_leistungen_und_ihre_wuensche.md)
 * [berlin_kassen_und_kassensysteme.md](cw-soft.de/berlin_kassen_und_kassensysteme.md)
@@ -24,7 +24,7 @@
 * [digituu_pc_cash.md](cw-soft.de/digituu_pc_cash.md)
 * [index.md](cw-soft.de/index.md)
 * [warenwirtschaft_gastronomie.md](cw-soft.de/warenwirtschaft_gastronomie.md)
-##### www.cw-softpos.de
+##### [www.cw-softpos.de](https://www.cw-softpos.de)
 * [allgemeine_geschaftsbedingungen.md](www.cw-softpos.de/allgemeine_geschaftsbedingungen.md)
 * [baeckerei.md](www.cw-softpos.de/baeckerei.md)
 * [blumenladen.md](www.cw-softpos.de/blumenladen.md)
